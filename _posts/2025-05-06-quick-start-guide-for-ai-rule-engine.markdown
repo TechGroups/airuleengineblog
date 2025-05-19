@@ -2,7 +2,7 @@
 layout: post
 title:  "Quickstart Guide for AI Rule Engine"
 description: Learn how to quickly install AI Rule Engine
-date:   2025-05-02 08:07:34 -0500
+date:   2025-05-06 08:07:34 -0500
 categories: [Tutorials]
 tags: [tutorial, quickstart]
 ---
