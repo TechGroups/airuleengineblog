@@ -17,7 +17,7 @@ AI Rule Engine allows you to create, manage, and execute rules that govern decis
 
 For a detailed walkthrough, check out this YouTube video that demonstrates setting up and using an AI Rule Engine:
 
-{% include embed/youtube.html id='mFlq5imGTN8' %}
+{% include embed/youtube.html id='0-0Ka-fLWsU' %}
 
 ## Getting Started
 
