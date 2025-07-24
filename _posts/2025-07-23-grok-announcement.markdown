@@ -2,7 +2,7 @@
 layout: post
 title:  "AI Rule Engine Now Supports xAI's Grok"
 description: A New Era of Intelligent Automation
-date:   2025-05-06 08:07:34 -0500
+date:   2025-07-23 09:07:34 -0500
 categories: [Tutorials]
 tags: [tutorial, quickstart]
 ---
