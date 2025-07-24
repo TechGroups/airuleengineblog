@@ -3,8 +3,8 @@ layout: post
 title:  "14-Day Free Trial Now Available for AI Rule Engine"
 description: Unlock the Power of AI Decision-Making
 date:   2025-07-22 08:07:34 -0500
-categories: [Announcements]
-tags: [announcement]
+categories: [Announcements, Offers]
+tags: [announcement, offer]
 pin: false
 ---
 
