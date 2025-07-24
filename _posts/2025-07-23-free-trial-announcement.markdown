@@ -8,6 +8,8 @@ tags: [announcement]
 pin: false
 ---
 
+![14-day free trial](/assets/img/14-day-free-trial.png)
+
 In today's fast-paced business environment, making quick and accurate decisions is crucial. That's where **AI Rule Engine** comes in. This innovative platform harnesses the power of artificial intelligence to automate complex decision-making processes, helping businesses streamline operations and boost efficiency. Whether you're a small startup or a large enterprise, AI Rule Engine can be tailored to meet your specific needs, offering a flexible and powerful solution for automating workflows and applying rules to your data.
 
 ---
